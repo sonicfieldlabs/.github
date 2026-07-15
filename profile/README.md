@@ -4,7 +4,7 @@
 
 **Open-source research and software for machine listening, sonic computation, and critical audio infrastructure.**
 
-Sonic Field Labs is the experimental research and development arm of [Sonic Field](https://sonicfield.org). We build tools, methods, and concepts for listening with machines—locally, openly, and critically.
+Sonic Field Labs is the experimental research and development arm of [Sonic Field](https://sonicfield.org). We build tools, methods, and concepts for listening with machines.
 
 ## The Listening Stack
 
