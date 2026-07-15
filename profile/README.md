@@ -8,6 +8,9 @@ Sonic Field Labs is the experimental research and development arm of [Sonic Fiel
 
 ## The Listening Stack
 
+* **[The Listening Stack](https://github.com/sonicfieldlabs/listening-stack)** — single insaller for our infrastructure for for audio understanding, cultivation and re-listening
+* **[Oída](https://github.com/sonicfieldlabs/oida)** — listening agent with several modes of audio interpretation.
+* **[GERM](https://github.com/sonicfieldlabs/germ)** — generative modular audio system based on Stable Audio 3.
 * **[AKOÚŌ](https://github.com/sonicfieldlabs/akouo)** — protocols and skills for agentic and critical listening.
 * **[Earworm](https://github.com/sonicfieldlabs/earworm)** — a router and runtime for listening operations.
 * **[Akousmata](https://github.com/sonicfieldlabs/akousmata)** — shared memory and navigation for heard things, listening events, and sonic relations.
