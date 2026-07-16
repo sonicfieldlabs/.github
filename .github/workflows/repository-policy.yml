@@ -1,0 +1,24 @@
+name: Repository policy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  policy:
+    name: Repository policy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+      - name: Validate organization profile policy
+        run: |
+          test -s LICENSE
+          test -s .github/CODEOWNERS
+          grep -Fq '* @emeisazam' .github/CODEOWNERS
+          test -s profile/README.md
