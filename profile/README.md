@@ -6,17 +6,17 @@
 
 Sonic Field Labs is the experimental research and development arm of [Sonic Field](https://sonicfield.org). We build tools, methods, and concepts for listening with machines.
 
-## The Listening Stack
-
+## [LISTENING.md](https://listening.md)
+Manifesto, stack and conceptual framework for research on algorithmic acoulogy.
 * **[The Listening Stack](https://github.com/sonicfieldlabs/listening-stack)** — single insaller for our agentic listening infrastructure.
 * **[Oída](https://github.com/sonicfieldlabs/oida)** — listening agent with several modes of audio interpretation.
-* **[GERM](https://github.com/sonicfieldlabs/germ)** — generative modular audio system based on Stable Audio 3.
 * **[AKOÚŌ](https://github.com/sonicfieldlabs/akouo)** — protocols and skills for agentic and critical listening.
 * **[Earworm](https://github.com/sonicfieldlabs/earworm)** — a router and runtime for listening operations.
 * **[Akousmata](https://github.com/sonicfieldlabs/akousmata)** — shared memory and navigation for heard things, listening events, and sonic relations.
 
 ## Other projects
 
+* **[GERM](https://github.com/sonicfieldlabs/germ)** — generative modular audio system based on Stable Audio 3.
 * **[Algophony](https://github.com/sonicfieldlabs/algophony)** — research on algorithmic generative soundscapes, listening, and algorithmic acoulogy.
 * **[ORAM](https://github.com/sonicfieldlabs/oram)** — an oracular responsive audio machine for recording, looping, transformation, and performance.
 
