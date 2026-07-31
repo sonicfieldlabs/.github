@@ -1,6 +1,5 @@
 # Sonic Field Labs
-
-<p align="center"><img width="250" height="250" alt="logo-static-spaced-solid-black" src="https://github.com/user-attachments/assets/dd8f0fd6-19ad-48b2-9d00-13aace922fcf" /></p>
+<p align="center"><img width="230" height="230" alt="logo-v2-sine-compact-thin-spaced-small-dots-static-dark" src="https://github.com/user-attachments/assets/5c92e67b-54c7-43b6-9954-77576b0d45d4" /></p>
 
 **Open-source research and software for machine listening, sonic computation, and critical audio infrastructure.**
 
