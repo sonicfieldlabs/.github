@@ -16,8 +16,8 @@ Sonic Field Labs is the experimental research and development arm of [Sonic Fiel
 
 ## Sonic Matter Stack
 * **[GERM](https://github.com/sonicfieldlabs/germ)** — generative modular audio system based on Stable Audio 3.
-* * **[MASA](https://github.com/sonicfieldlabs/masa)** — sonic matter aware protocol, project-agnostic, mainly for agentic systems and microsound/spectral based audio exploration.
-* * **[Cosmoaudition](https://github.com/sonicfieldlabs/cosmoaudition)** — modulation framework based on planetary computation.
+* **[MASA](https://github.com/sonicfieldlabs/masa)** — sonic matter aware protocol, project-agnostic, mainly for agentic systems and microsound/spectral based audio exploration.
+* **[Cosmoaudition](https://github.com/sonicfieldlabs/cosmoaudition)** — modulation framework based on planetary computation.
 
 ## Other projects
 * **[Algophony](https://github.com/sonicfieldlabs/algophony)** — research on algorithmic generative soundscapes, listening, and algorithmic acoulogy.
