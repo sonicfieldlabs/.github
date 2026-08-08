@@ -5,17 +5,21 @@
 
 Sonic Field Labs is the experimental research and development arm of [Sonic Field](https://sonicfield.org). We build tools, methods, and concepts for listening with machines.
 
-## [LISTENING.md](https://listening.md)
-Manifesto, stack and conceptual framework for research on algorithmic acoulogy.
+## Listening Stack
+* **[LISTENING.md](https://listening.md)** - Manifesto, stack and conceptual framework for research on algorithmic acoulogy.
 * **[The Listening Stack](https://github.com/sonicfieldlabs/listening-stack)** — single installer for our agentic listening infrastructure.
 * **[Oída](https://github.com/sonicfieldlabs/oida)** — listening agent with several modes of audio interpretation.
 * **[AKOÚŌ](https://github.com/sonicfieldlabs/akouo)** — protocols and skills for agentic and critical listening.
-* **[Earworm](https://github.com/sonicfieldlabs/earworm)** — a router and runtime for listening operations.
+* **[Earworm](https://github.com/sonicfieldlabs/earworm)** — a persistent memory runtime for listening operations.
 * **[Akousmata](https://github.com/sonicfieldlabs/akousmata)** — shared memory and navigation for heard things, listening events, and sonic relations.
 
-## Other projects
 
+## Sonic Matter Stack
 * **[GERM](https://github.com/sonicfieldlabs/germ)** — generative modular audio system based on Stable Audio 3.
+* * **[MASA](https://github.com/sonicfieldlabs/masa)** — sonic matter aware protocol, project-agnostic, mainly for agentic systems and microsound/spectral based audio exploration.
+* * **[Cosmoaudition](https://github.com/sonicfieldlabs/cosmoaudition)** — modulation framework based on planetary computation.
+
+## Other projects
 * **[Algophony](https://github.com/sonicfieldlabs/algophony)** — research on algorithmic generative soundscapes, listening, and algorithmic acoulogy.
 * **[ORAM](https://github.com/sonicfieldlabs/oram)** — an oracular responsive audio machine for recording, looping, transformation, and performance.
 
