@@ -22,10 +22,10 @@ Sonic Field Labs is the experimental research and development arm of [Sonic Fiel
 ## Other projects
 * **[Algophony](https://github.com/sonicfieldlabs/algophony)** — research on algorithmic generative soundscapes, listening, and algorithmic acoulogy.
 * **[ORAM](https://github.com/sonicfieldlabs/oram)** — an oracular responsive audio machine for recording, looping, transformation, and performance.
+* **[Skills](https://github.com/sonicfieldlabs/skills)** — portable agent skills for Sonic Field: contributing to its collections, searching its public index, and audio-vision puzzles.
 
 Our work explores **re-listening, sonic lineage, digital akousmatics, listening sovereignty, and accountable AI audio systems**.
 
-All projects are under active development. Contributions, tests, research collaborations, and critical feedback are welcome.
+Current versions and releases of the stack are on [listening.md's Stack page](https://listening.md/stack). All projects are under active development. Contributions, tests, research collaborations, and critical feedback are welcome.
 
 [sonicfield.org](https://sonicfield.org) · [Sonic Field Journal](https://sonicfield.org/journal) · [GitHub repositories](https://github.com/sonicfieldlabs?tab=repositories)
-::: 
