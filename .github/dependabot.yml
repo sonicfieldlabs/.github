@@ -1,0 +1,17 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directories:
+      - "/"
+    schedule:
+      interval: cron
+      cronjob: "0 10 23 * *"
+      timezone: America/Bogota
+    open-pull-requests-limit: 1
+    groups:
+      security-updates:
+        applies-to: security-updates
+        patterns: ["*"]
+      compatible-github-actions:
+        patterns: ["*"]
+        update-types: [minor, patch]
